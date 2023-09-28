@@ -29,7 +29,7 @@ DEBUG = True
 ALLOWED_HOSTS = []
 
 
-debug = False
+DEBUG = False
 
 
 # Application definition
