@@ -29,7 +29,6 @@ SECRET_KEY = 'k(6-_4sgig$sbrccr2*0=7s)bklpiywi#_121l)s(f8)dq^^wv'
 ALLOWED_HOSTS = []
 
 
-DEBUG = False
 
 
 # Application definition
